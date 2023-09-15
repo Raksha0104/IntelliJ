@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA+JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA+JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPrograms/JavaPrograms.iml" filepath="$PROJECT_DIR$/JavaPrograms/JavaPrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsaAlgorithms/dsaAlgorithms.iml" filepath="$PROJECT_DIR$/dsaAlgorithms/dsaAlgorithms.iml" />
+    </modules>
+  </component>
+</project>
